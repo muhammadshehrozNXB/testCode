@@ -26,3 +26,7 @@ Using services in Laravel offers several benefits that contribute to creating a 
 4: Scalability: As your application grows, the separation of concerns provided by services allows you to add new features and functionality without modifying existing code extensively.
 
 5: Error Handling and Logging: By encapsulating logic within services, you can implement consistent error handling and logging mechanisms. 
+
+# Other Change
+
+1: Except of using array() function, "[]" is used in order to reduce the file size.
