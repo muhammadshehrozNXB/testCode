@@ -27,7 +27,7 @@ use Illuminate\Support\Facades\Log;
 use Monolog\Handler\FirePHPHandler;
 use Illuminate\Support\Facades\Auth;
 
-class BookingServices
+class BookingServices extends BaseServices
 {
     protected $model;
     protected $mailer;
