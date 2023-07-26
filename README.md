@@ -13,7 +13,7 @@ Since we this code contains repository pattern which somehow have potential disa
 5: Lack of Standardization: There is no strict standardization for implementing the Repository pattern;
 
 
-#What makes it amazing code
+# What makes it amazing code
 
 Using services in Laravel offers several benefits that contribute to creating a clean, modular, and maintainable codebase. Following are the advantages.
 
