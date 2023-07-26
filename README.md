@@ -1,6 +1,6 @@
 # What makes this code terrible
 
-Since we this code contains repository pattern which somehow have potential disadvantages, Which are as follow
+Since this code contains repository pattern which somehow have potential disadvantages, Which are as follow
 
 1: Increased Complexity: Implementing the Repository pattern introduces additional layers of abstraction, which can increase the overall complexity of the codebase. 
 
